@@ -1,0 +1,27 @@
+offence,motorcycle_rs,three_wheeler_rs,car_jeep_upto_2000cc_rs,car_jeep_above_2000cc_rs,motor_cab_delivery_van_rs,ltv_psv_rs,htv_tractor_trailer_rs,points
+Exceeding the speed limit,2000,2000,5000,10000,5000,7000,10000,4
+Signal violation (electronic or manual),2000,2000,3000,5000,3000,3000,5000,3
+Hand-held mobile phone while driving,1000,1000,3000,3000,3000,3000,3000,3
+Riding without a crash helmet,2000,2000,,,,,,2
+Seat belt not fastened,,,2000,3000,2000,2000,3000,2
+Driving on the wrong side of the road,2000,2000,5000,5000,3000,4000,5000,4
+Reckless and negligent driving,2000,2000,5000,10000,5000,7000,10000,4
+Driving without a driving licence,2000,2000,5000,5000,5000,5000,5000,4
+Driving under the age limit,2000,2000,5000,10000,5000,10000,10000,4
+Driving an unregistered vehicle,2000,2000,5000,5000,3000,4000,5000,4
+Driving without a fitness certificate,1000,1000,5000,5000,5000,5000,5000,4
+Fabricated number plate,2000,2000,5000,5000,5000,5000,5000,3
+Night driving without proper lights,2000,2000,3000,5000,3000,4000,5000,3
+Tinted / covered glass,,,5000,5000,5000,5000,5000,2
+Excessive smoke,2000,2000,3000,4000,3000,3000,5000,2
+Obstructing traffic,1000,1000,3000,5000,3000,3000,5000,2
+Plying where and when prohibited,1000,1000,3000,3000,3000,3000,3000,2
+Line / lane / zebra crossing violation,1000,1000,2000,2000,2000,2000,2000,1
+"Pressure / musical horn, or horn in a silence zone",1000,1000,2000,2000,2000,2000,2000,1
+Parking violation,2000,2000,3000,3000,3000,3000,3000,1
+More than two persons on a motorcycle,2000,,,,,,,1
+Carrying passengers beyond the limit (public service vehicle),,2000,,,2000,2000,5000,3
+Overloading a goods vehicle,,2000,,,3000,3000,4000,3
+Load beyond permissible dimensions,,2000,,,5000,5000,7000,4
+Route permit missing or violated,,1000,,,2000,2000,2000,2
+Any other violation (section 112),1000,1000,3000,3000,3000,3000,3000,1
